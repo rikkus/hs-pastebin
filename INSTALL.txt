@@ -1,0 +1,13 @@
+Requirements:
+
+* ASP.NET MVC 1.0.
+* SQL Server 2005 or above.
+* Highlight, from http://www.andre-simon.de/
+
+Steps:
+
+1. Build.
+2. Install on web server.
+3. Create a database to store pastes.
+4. Edit the settings in the top level Web.config of HS.PasteBin.Web.
+5. Browse to your-root-url/Install
